@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Hello world ! 
+hi there Manu!
